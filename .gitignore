@@ -60,3 +60,6 @@ dmypy.json
 *.sqlite
 *.db
 *.ddb
+
+# SpecStory
+.specstory/
