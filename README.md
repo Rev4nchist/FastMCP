@@ -1,19 +1,51 @@
 <div align="center">
 
 <!-- omit in toc -->
-# FastMCP v2 🚀
+# EVE-MCP-LAB 🧪
+## *Personal AI Toolkit Development Laboratory*
 
-<strong>The fast, Pythonic way to build MCP servers and clients.</strong>
+<strong>Experimental workspace for building custom MCP servers that evolve from Personal AI Toolkits to Executive Team management suites.</strong>
 
-*FastMCP is made with 💙 by [Prefect](https://www.prefect.io/)*
+*Powered by FastMCP v2.0 - Built with 🔥 by EVE*
 
-[![Docs](https://img.shields.io/badge/docs-gofastmcp.com-blue)](https://gofastmcp.com)
+[![Lab Documentation](https://img.shields.io/badge/lab-docs-brightgreen)](lab/docs/getting-started.md)
+[![FastMCP Docs](https://img.shields.io/badge/fastmcp-docs-blue)](https://gofastmcp.com)
 [![PyPI - Version](https://img.shields.io/pypi/v/fastmcp.svg)](https://pypi.org/project/fastmcp)
-[![Tests](https://github.com/jlowin/fastmcp/actions/workflows/run-tests.yml/badge.svg)](https://github.com/jlowin/fastmcp/actions/workflows/run-tests.yml)
 [![License](https://img.shields.io/github/license/jlowin/fastmcp.svg)](https://github.com/jlowin/fastmcp/blob/main/LICENSE)
 
-<a href="https://trendshift.io/repositories/13266" target="_blank"><img src="https://trendshift.io/api/badge/repositories/13266" alt="jlowin%2Ffastmcp | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 </div>
+
+---
+
+## 🎯 What We're Building
+
+Connected webs of AI intelligence that help teams:
+- **Interact** more effectively with context-aware tools
+- **Make decisions** faster with intelligent filtering  
+- **Act rapidly** on insights without bureaucratic friction
+- **Filter BS** and focus on work that actually matters
+
+## 🚀 Quick Start
+
+Ready to build your first custom MCP server? Jump into the lab:
+
+**→ [EVE-MCP-LAB Getting Started](lab/docs/getting-started.md)**
+
+## 📚 Lab Resources
+
+- **[Development Methodology](lab/docs/methodology.md)** - Systematic framework for building production-ready MCP servers
+- **[Connection Guide](lab/docs/connection-guide.md)** - How to connect your MCP servers to Claude/Cursor  
+- **[Lab Overview](lab/README.md)** - Full mission, phases, and current experiments
+
+## 🧪 Current Experiments
+
+- **[Personal Context Manager](lab/personal/context_manager.py)** - Intelligent context management across AI conversations
+- **Executive Intelligence Hub** *(Phase 2)*
+- **System Integration Tools** *(Phase 3)*
+
+---
+
+## About FastMCP Framework
 
 > [!Note]
 >
